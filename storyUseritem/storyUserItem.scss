@@ -1,0 +1,24 @@
+.c-story-user-item {
+    width: 92px;
+    
+      .avatar {
+        border-radius: 50%;
+        overflow: hidden;
+        border: 4px solid #fff0;
+        
+        .img {
+          max-height: 100%;
+        }
+  
+        &:hover {
+          box-shadow: 0 0 15px 0 purple;
+        }
+      }
+    }
+    .username {
+      margin-top: 10px;
+    }
+  .avatar-wrapper {
+      border-radius: 60%;
+      border: 2px solid #A6328D;
+  }
